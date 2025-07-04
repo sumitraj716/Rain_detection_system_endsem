@@ -1,7 +1,7 @@
 
 # 🌧️ Rain Detection System using ESP32
 
-A smart **Rain Detection System** built using the **ESP32 microcontroller**, designed to detect rain and respond with automation using a servo motor and LED indicators. The system includes a **real-time web dashboard** built with HTML, CSS, JavaScript, and Bootstrap to monitor weather status and control devices remotely.
+A smart **Rain Detection System** built using the **ESP32 microcontroller**, designed to detect rain and respond with automation using a servo motor and LED indicators. The system includes a **real-time web dashboard** built with HTML, CSS and JavaScript to monitor weather status and control devices remotely.
 
 ---
 
