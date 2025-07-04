@@ -20,9 +20,9 @@ A smart **Rain Detection System** built using the **ESP32 microcontroller**, des
 
 | Component        | ESP32 Pin        | Description                      |
 |------------------|------------------|----------------------------------|
-| Rain Sensor OUT  | D33 (or GPIO33)  | Digital signal from rain sensor |
-| Servo Motor      | D25 (or GPIO25)  | PWM control pin for servo       |
-| LED Indicator    | D26 (or GPIO26)  | Turns on when rain is detected  |
+| Rain Sensor OUT  | D34 (or GPIO34)  | Digital signal from rain sensor |
+| Servo Motor      | D18 (or GPIO18)  | PWM control pin for servo       |
+| LED Indicator    | D15 (or GPIO15)  | Turns on when rain is detected  |
 | VCC (Rain/Servo) | 3.3V / 5V        | Power supply (based on module)  |
 | GND              | GND              | Common ground connection        |
 
