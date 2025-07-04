@@ -5,8 +5,8 @@
 #include <FS.h>
 
 // WiFi credentials
-const char* ssid = "vivo";
-const char* password = "12345678";
+const char* ssid = "Your wifi ssid";
+const char* password = "Your wifi password";
 
 // Hardware pins
 const int rainSensorPin = 34;
