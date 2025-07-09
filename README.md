@@ -81,5 +81,5 @@ A smart **Rain Detection System** built using the **ESP32 microcontroller**, des
 
 ## 📜 License
 
-This project is licensed is an open source.
+This project is an open source.
 
